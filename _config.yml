@@ -1,6 +1,6 @@
 # Site settings
 title: BoHu
-url: "http://ilham.github.io"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
+url: "http://ilham.github.io"    # the protocol and hostname of your site, eg. `http://ilham.github.io`
 baseurl: "/bohu-jekyll-theme" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
 #timezone: Asia/Shanghai
 description: 天道总司的个人博客网站,前端HTML、HTML5、CSS、CSS3、JavaScript、JQuery等编程经验总结分享。
@@ -9,7 +9,7 @@ email: mohdilhamakbarkhoiri@gmail.com
 author: Clark your name mohd ilham akbar khoiri
 position: your job mahasiswa
 universitas: your univercity uin suska riau
-resume: "http://zhaoyuxiang.cn/cv"
+resume: "http://ilham.github.io"
 github_username:  milhamakbarkhoiri
 
 # Comment Service (Disqus or 多说)
